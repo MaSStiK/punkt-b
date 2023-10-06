@@ -9,9 +9,6 @@
 ![Screenshot_2](https://github.com/MaSStiK/punkt-b/assets/72652605/5fcd4ed1-30a3-4a6a-bc40-a8ad7885fcd8)
 ![Screenshot_3](https://github.com/MaSStiK/punkt-b/assets/72652605/3b6f1bdf-b1f0-45cb-82c6-c87b9f5c7b03)
 ![Screenshot_4](https://github.com/MaSStiK/punkt-b/assets/72652605/3629d69d-edb3-4166-ab4b-e8f9d061e048)
-
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/dd695e85-f8d7-4213-87eb-115806c06bdf)
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097)
-
 ![Screenshot_5](https://github.com/MaSStiK/punkt-b/assets/72652605/a29636cc-ad42-4ed9-9788-5cafb1ddc15f)
-![Screenshot_6](https://github.com/MaSStiK/punkt-b/assets/72652605/be4f9a83-99c4-4d19-b975-04271ef8f5d3)
