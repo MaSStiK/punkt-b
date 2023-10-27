@@ -1,3 +1,5 @@
+![image](https://github.com/MaSStiK/punkt-b/assets/72652605/ac121ccf-e528-4dcd-8673-dfecb352d456)
+
 ![Screenshot_1](https://github.com/MaSStiK/punkt-b/assets/72652605/b6e3e4c3-f6dc-4229-b55a-e55ea222b592)
 ![Screenshot_2](https://github.com/MaSStiK/punkt-b/assets/72652605/5fcd4ed1-30a3-4a6a-bc40-a8ad7885fcd8)
 ![Screenshot_3](https://github.com/MaSStiK/punkt-b/assets/72652605/3b6f1bdf-b1f0-45cb-82c6-c87b9f5c7b03)
