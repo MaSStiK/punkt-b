@@ -6,7 +6,8 @@
 ![Screenshot_4](https://github.com/MaSStiK/punkt-b/assets/72652605/3629d69d-edb3-4166-ab4b-e8f9d061e048)
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/dd695e85-f8d7-4213-87eb-115806c06bdf)
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097)
-![Screenshot_5](https://github.com/MaSStiK/punkt-b/assets/72652605/a29636cc-ad42-4ed9-9788-5cafb1ddc15f)
+![image](https://github.com/MaSStiK/punkt-b/assets/72652605/f6c4f8ac-318a-4dab-98cf-db10f40750e3)
+
 
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/5ac1e05a-cec0-4738-b362-38133eff683e)
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/8c0690f0-988d-418e-a9be-cd9d05c77871)
