@@ -90,4 +90,4 @@ HTML, CSS, JavaScript, jQuery, API, Tilda.
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/20b5eff4-3345-4dae-a6e1-a7a8453d7937)
 
 · Пример PDF файла с заключением:
-[Заключение ФИО Клиента 1 24-04-2024.pdf](https://github.com/MaSStiK/punkt-b/files/15096195/1.24-04-2024.pdf)
+[Заключение_ФИО_Клиента_1_24-04-2024.pdf](https://github.com/MaSStiK/punkt-b/files/15096225/_._._1_24-04-2024.pdf)
