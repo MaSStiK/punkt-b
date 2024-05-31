@@ -21,19 +21,19 @@ HTML, CSS, JavaScript, jQuery, API, Tilda.
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/a9900f46-fc3e-475d-8565-9f4de5cfa60b)
 
 · Клиенты
-![Screenshot_2](https://github.com/MaSStiK/punkt-b/assets/72652605/5fcd4ed1-30a3-4a6a-bc40-a8ad7885fcd8)
-
-· Диагностики
-![Screenshot_3](https://github.com/MaSStiK/punkt-b/assets/72652605/3b6f1bdf-b1f0-45cb-82c6-c87b9f5c7b03)
-
-· Архив клиентов
-![Screenshot_4](https://github.com/MaSStiK/punkt-b/assets/72652605/3629d69d-edb3-4166-ab4b-e8f9d061e048)
+![image](https://github.com/MaSStiK/punkt-b/assets/72652605/e10d3d47-dca3-4f0e-a3cf-441e3c2ae6e9)
 
 · Карточка клиента
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/f8a24cc4-76eb-4ac6-8997-48fd81b5b191)
 
 · Результаты диагностики клиента
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097)
+
+· Диагностики
+![image](https://github.com/MaSStiK/punkt-b/assets/72652605/96efe850-4129-44b7-a215-612c68b37c26)
+
+· Архив клиентов
+![image](https://github.com/MaSStiK/punkt-b/assets/72652605/031b058e-0510-4e3b-808b-15b12bed703d)
 
 · Настройка доступа специалистов
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/f6c4f8ac-318a-4dab-98cf-db10f40750e3)
@@ -57,7 +57,7 @@ HTML, CSS, JavaScript, jQuery, API, Tilda.
 
 · При открытии сайта идет проверка доступа у специалиста 
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/3b02f908-9ea5-433e-abdd-b0632141aaa2)
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/5c33776c-fdb9-4092-83a2-e66ce6b4b090)
+![image](https://github.com/MaSStiK/punkt-b/assets/72652605/223d73e9-b7c0-4a92-8628-3746cbf78c68)
 
 · Заполенние данных
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/b831735a-40e7-4186-a92e-408f49ccc1f7)
