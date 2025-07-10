@@ -39,7 +39,7 @@ HTML, CSS, JavaScript, jQuery, API, ~~Tilda~~.
 · Настройка доступа специалистов
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/f6c4f8ac-318a-4dab-98cf-db10f40750e3)
 
-## <a id="diagnostics">Скриншоты несколкьих диагностик</a>
+## <a id="diagnostics">Скриншоты нескольких диагностик</a>
 · Диагностика "10 любымых дел"
 ![image](https://github.com/MaSStiK/punkt-b/assets/72652605/d34f0a73-c545-4a19-8183-bfca5f1a594c)
 
