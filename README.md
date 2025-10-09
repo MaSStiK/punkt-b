@@ -12,11 +12,13 @@
 #### [03.10.2025]
 · Платформа прошла полную переработку архитектуры и рефакторинг кода; 
 
-# Результат
-Сократилось время работы с клиентом на 30%, а также время проведения и обработки диагностик в 2 раза за счет разработки интерфейса
+## 📈 Результаты
+- Время работы с клиентом сократилось на **30%**;  
+- Проведение и обработка диагностик ускорились **в 2 раза** благодаря новому интерфейсу;  
+- Повышена стабильность и удобство платформы после архитектурного рефакторинга.
 
-# Стек
-HTML, CSS, JavaScript, jQuery, Moment.js, REST API, ~~Tilda~~.  
+## 🛠️ Стек технологий
+**Стек:** `HTML`, `CSS`, `JavaScript`, `jQuery`, `Moment.js`, `REST API`, ~~`Tilda`~~  
 (Проект был перенесен с Tilda на хостинг)
 
 # Скриншоты сайта
@@ -98,3 +100,8 @@ HTML, CSS, JavaScript, jQuery, Moment.js, REST API, ~~Tilda~~.
 
 · Пример PDF файла с заключением:
 [example document 24-04-2024.pdf](https://github.com/MaSStiK/punkt-b/files/15096246/example.document.24-04-2024.pdf)
+
+<img width="1920" height="932" alt="изображение" src="https://github.com/user-attachments/assets/8eb3be0a-7315-4fcd-94b9-252bc5036131" />
+<img width="1920" height="932" alt="изображение" src="https://github.com/user-attachments/assets/e69eeedc-a413-4f44-9f57-21d5e7719df5" />
+
+
