@@ -1,6 +1,6 @@
 🌐 **Languages:**
 [English](README.md) |
-Русский |
+Russian |
 [Français](README.fr.md)
 
 # Платформа "Пункт Б"
