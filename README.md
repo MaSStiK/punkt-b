@@ -1,7 +1,7 @@
 <p align="right">
   <a href="./README.md">🇺🇸 English</a> |
-  <a href="./README.ru.md">🇷🇺 Русский</a> |
-  <a href="./README.fr.md">🇫🇷 Français</a>
+  <a href="./README-ru.md">🇷🇺 Русский</a> |
+  <a href="./README-fr.md">🇫🇷 Français</a>
 </p>
 
 # "Point B" Platform
