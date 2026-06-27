@@ -58,7 +58,7 @@
 `REST API`
 
 ### Инфраструктура
-- Миграция проекта с ~~Tilda~~ на собственный хостинг;
+- Миграция проекта с Tilda на собственный хостинг;
 - Поддержка и развитие после переноса.
 
 ---
@@ -68,29 +68,29 @@
 ## Авторизация и профиль пользователя
 
 <p align="center">
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/ac121ccf-e528-4dcd-8673-dfecb352d456" width="49%" />
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/a9900f46-fc3e-475d-8565-9f4de5cfa60b" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/ac121ccf-e528-4dcd-8673-dfecb352d456" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/a9900f46-fc3e-475d-8565-9f4de5cfa60b" width="49%" />
 </p>
 
 ## Управление клиентской базой
 
 <p align="center">
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/e10d3d47-dca3-4f0e-a3cf-441e3c2ae6e9" width="49%" />
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/f8a24cc4-76eb-4ac6-8997-48fd81b5b191" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/e10d3d47-dca3-4f0e-a3cf-441e3c2ae6e9" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/f8a24cc4-76eb-4ac6-8997-48fd81b5b191" width="49%" />
 </p>
 
 ## Проведение диагностик и анализ результатов
 
 <p align="center">
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/96efe850-4129-44b7-a215-612c68b37c26" width="49%" />
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/96efe850-4129-44b7-a215-612c68b37c26" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097" width="49%" />
 </p>
 
 ## Управление специалистами и правами доступа
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/8eb3be0a-7315-4fcd-94b9-252bc5036131" width="49%" />
-    <img src="https://github.com/user-attachments/assets/43d0e3f5-b218-4b89-9312-79eeaf51e333" width="49%" />
+  <img src="https://github.com/user-attachments/assets/8eb3be0a-7315-4fcd-94b9-252bc5036131" width="49%" />
+  <img src="https://github.com/user-attachments/assets/43d0e3f5-b218-4b89-9312-79eeaf51e333" width="49%" />
 </p>
 
 ---
@@ -124,8 +124,8 @@
 ### Проверка прав доступа
 
 <p align="center">
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/3b02f908-9ea5-433e-abdd-b0632141aaa2" width="49%" />
-    <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/223d73e9-b7c0-4a92-8628-3746cbf78c68" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/3b02f908-9ea5-433e-abdd-b0632141aaa2" width="49%" />
+  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/223d73e9-b7c0-4a92-8628-3746cbf78c68" width="49%" />
 </p>
 
 ### Заполнение данных клиента
