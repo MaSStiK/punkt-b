@@ -1,7 +1,8 @@
-🌐 **Languages:**
-[English](README.md) |
-Russian |
-[Français](README.fr.md)
+<p align="right">
+  <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README-ru.md">🇷🇺 Русский</a> |
+  <a href="./README-fr.md">🇫🇷 Français</a>
+</p>
 
 # Платформа "Пункт Б"
 
