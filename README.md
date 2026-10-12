@@ -6,15 +6,15 @@
 
 <div align="center">
 
-# Career Consultant Dashboard on the Punkt B Website
+# Punkt B Dashboard
 
 </div>
 
-A commercial project developed for **Punkt B**, an international online career guidance school.
+A commercial project developed for **Punkt B**, an international online career guidance school: a dashboard for career consultants within the school's website.
 
-Punkt B is an internal platform for career consultants that combines career assessments, client database management, and personalized career recommendations in a single workspace.
+The dashboard combines career assessments, client database management, and personalized career recommendations in a single workspace.
 
-By automating key processes, the platform significantly reduced routine administrative work, accelerated assessment processing, and improved the quality of client support.
+By automating key processes, the dashboard significantly reduced routine administrative work, accelerated assessment processing, and improved the quality of client support.
 
 ## ✨ Features
 

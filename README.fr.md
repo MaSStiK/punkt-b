@@ -6,13 +6,13 @@
 
 <div align="center">
 
-# Espace personnel pour les conseillers en orientation professionnelle sur le site Punkt B
+# Espace personnel Punkt B
 
 </div>
 
-Projet commercial développé pour **Punkt B**, une école internationale en ligne spécialisée dans l’orientation professionnelle.
+Projet commercial développé pour **Punkt B**, une école internationale en ligne spécialisée dans l’orientation professionnelle : un espace personnel pour les conseillers en orientation professionnelle sur le site de l’école.
 
-Punkt B est une plateforme interne destinée aux consultants en orientation professionnelle. Elle réunit les bilans d’orientation, la gestion de la base clients et la préparation de recommandations de carrière personnalisées dans un espace de travail unique.
+L’espace personnel réunit les bilans d’orientation, la gestion de la base clients et la préparation de recommandations de carrière personnalisées dans un espace de travail unique.
 
 L’automatisation des processus clés a permis de réduire sensiblement les tâches administratives répétitives, d’accélérer le traitement des bilans et d’améliorer la qualité de l’accompagnement client.
 
