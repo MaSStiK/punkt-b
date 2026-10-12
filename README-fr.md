@@ -1,173 +1,262 @@
-<p align="right">
-  <a href="./README.md">🇺🇸 English</a> |
-  <a href="./README-ru.md">🇷🇺 Русский</a> |
-  <a href="./README-fr.md">🇫🇷 Français</a>
+<p class="language-switch" align="center">
+  <a href="./README.md">🇺🇸 English</a> •
+  <a href="./README.ru.md">🇷🇺 Русский</a> •
+  <a href="./README.fr.md">🇫🇷 Français</a>
 </p>
 
-# Plateforme Punkt B
+<div align="center">
+
+# Espace personnel pour les conseillers en orientation professionnelle sur le site Punkt B
+
+</div>
 
 Projet commercial développé pour **Punkt B**, une école internationale en ligne spécialisée dans l’orientation professionnelle.
 
 Punkt B est une plateforme interne destinée aux consultants en orientation professionnelle. Elle réunit les bilans d’orientation, la gestion de la base clients et la préparation de recommandations de carrière personnalisées dans un espace de travail unique.
 
-L’automatisation des processus clés a permis de réduire les tâches administratives répétitives, d’accélérer le traitement des résultats et d’améliorer la qualité de l’accompagnement client.
+L’automatisation des processus clés a permis de réduire sensiblement les tâches administratives répétitives, d’accélérer le traitement des bilans et d’améliorer la qualité de l’accompagnement client.
+
+## ✨ Fonctionnalités
+
+- Authentification des utilisateurs et profils personnels
+- Gestion de la base clients
+- Réalisation des bilans d’orientation et analyse des résultats
+- Gestion des spécialistes et des droits d’accès
+- Recommandations de carrière personnalisées avec génération et export de rapports PDF
 
 ## 📌 Aperçu du projet
 
 - **Type de projet :** Commercial
 - **Période de développement :** 2023-2025
-- **Rôle :** Frontend Developer
-- **Équipe :** Designer, Product Manager, Backend Developer
+- **Rôle :** Développeur frontend
+- **Équipe :** Designer, responsable produit, développeur backend
 - **Technologies principales :** JavaScript, jQuery, REST API
 
 ## 👨‍💻 Mon rôle dans le projet
 
-### 🔨 Avril 2023
+### Avril 2023
 
-- Développement de l’espace utilisateur et du panneau d’administration ;
-- Conception et implémentation des interfaces pour la réalisation, la collecte et l’analyse des résultats des [bilans d’orientation](#diagnostics) ;
-- Mise en place de la recherche, du filtrage et d’une navigation intuitive dans les résultats ;
-- Développement de la version mobile de la plateforme ;
-- Intégration de services externes via REST API ;
-- Collaboration au sein d’une équipe pluridisciplinaire avec un designer, un product manager et un backend developer ;
-- Réalisation de code reviews, correction de bugs et maintenance du produit.
+- Développé l’espace utilisateur et le panneau d’administration
+- Conçu et mis en œuvre les interfaces pour la réalisation des [bilans d’orientation](#assessment), la collecte et l’analyse de leurs résultats
+- Mis en place la recherche, le filtrage et la navigation dans les résultats des bilans
+- Développé la version mobile de la plateforme
+- Intégré des services externes via REST API
+- Collaboré étroitement avec le designer, le responsable produit et le développeur backend au sein d’une équipe pluridisciplinaire
+- Effectué des revues de code, corrigé des bugs et assuré la maintenance du produit
 
-### 🧾 Janvier 2024
+### Janvier 2024
 
-- Développement du module de [génération de rapports](#conclusion) ;
-- Implémentation de la génération et de l’export de documents PDF personnalisés.
+- Développé le [module de génération de rapports](#conclusion)
+- Mis en œuvre la génération et l’export de rapports PDF personnalisés
 
-### ⚙️ Octobre 2025
+### Octobre 2025
 
-- Refonte complète de l’architecture du projet ;
-- Refactorisation des modules clés afin d’améliorer les performances, l’évolutivité et la maintenabilité.
+- Piloté une refonte complète de l’architecture de la plateforme
+- Refactorisé les modules clés afin d’améliorer les performances, l’évolutivité et la maintenabilité
 
 ## 📈 Résultats
 
-- Réduction du temps de travail des spécialistes avec les clients de **30 %** ;
-- Accélération par **2** de la réalisation des bilans et du traitement des résultats grâce à l’amélioration de l’interface utilisateur ;
-- Automatisation de la préparation des rapports personnalisés ;
-- Amélioration de la stabilité et de la maintenabilité de la plateforme après la refonte architecturale.
+- Réduit de **30 %** le temps consacré par les spécialistes au travail avec les clients
+- **Doublé** la vitesse de réalisation des bilans et de traitement des résultats grâce à l’amélioration de l’interface utilisateur
+- Automatisé la génération de rapports d’orientation personnalisés
+- Amélioré la stabilité et la maintenabilité de la plateforme grâce à la refactorisation de l’architecture
 
 ## 🛠️ Technologies
 
-### Frontend
-`HTML` · `CSS` · `JavaScript` · `jQuery` · `Moment.js`
+### Interface utilisateur
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **jQuery**
+- **Moment.js**
 
 ### Intégrations
-`REST API`
+
+- **REST API**
 
 ### Infrastructure
-- Migration du projet de Tilda vers un hébergement dédié ;
-- Maintenance et développement continu après la migration.
 
----
+- Migré le projet de Tilda vers un hébergement dédié
+- Poursuivi la maintenance de la plateforme et le développement de nouvelles fonctionnalités après la migration
 
-# 🖼️ Fonctionnalités principales de la plateforme
+<!-- portfolio:hide:start -->
 
-## Authentification et profil utilisateur
+## 📸 Captures d’écran
 
-<p align="center">
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/ac121ccf-e528-4dcd-8673-dfecb352d456" width="49%" />
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/a9900f46-fc3e-475d-8565-9f4de5cfa60b" width="49%" />
-</p>
+### Interface de la plateforme
 
-## Gestion de la base clients
+<table>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Authentification et profil utilisateur" src="https://github.com/MaSStiK/punkt-b/assets/72652605/ac121ccf-e528-4dcd-8673-dfecb352d456" />
+            <br>
+            <p>Authentification et profil utilisateur</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Authentification et profil utilisateur" src="https://github.com/MaSStiK/punkt-b/assets/72652605/a9900f46-fc3e-475d-8565-9f4de5cfa60b" />
+            <br>
+            <p>Authentification et profil utilisateur</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Gestion de la base clients" src="https://github.com/MaSStiK/punkt-b/assets/72652605/e10d3d47-dca3-4f0e-a3cf-441e3c2ae6e9" />
+            <br>
+            <p>Gestion de la base clients</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Gestion de la base clients" src="https://github.com/MaSStiK/punkt-b/assets/72652605/f8a24cc4-76eb-4ac6-8997-48fd81b5b191" />
+            <br>
+            <p>Gestion de la base clients</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Réalisation des bilans d’orientation et analyse des résultats" src="https://github.com/MaSStiK/punkt-b/assets/72652605/96efe850-4129-44b7-a215-612c68b37c26" />
+            <br>
+            <p>Réalisation des bilans d’orientation et analyse des résultats</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Réalisation des bilans d’orientation et analyse des résultats" src="https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097" />
+            <br>
+            <p>Réalisation des bilans d’orientation et analyse des résultats</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Gestion des spécialistes et des droits d’accès" src="https://github.com/user-attachments/assets/8eb3be0a-7315-4fcd-94b9-252bc5036131" />
+            <br>
+            <p>Gestion des spécialistes et des droits d’accès</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Gestion des spécialistes et des droits d’accès" src="https://github.com/user-attachments/assets/43d0e3f5-b218-4b89-9312-79eeaf51e333" />
+            <br>
+            <p>Gestion des spécialistes et des droits d’accès</p>
+        </td>
+    </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/e10d3d47-dca3-4f0e-a3cf-441e3c2ae6e9" width="49%" />
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/f8a24cc4-76eb-4ac6-8997-48fd81b5b191" width="49%" />
-</p>
+<a id="assessment"></a>
+<a id="diagnostics"></a>
 
-## Réalisation des bilans et analyse des résultats
+### Exemples de bilans
 
-<p align="center">
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/96efe850-4129-44b7-a215-612c68b37c26" width="49%" />
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/2cb82246-6cf7-4260-a982-77cb1b444097" width="49%" />
-</p>
+<table>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Bilan « 10 activités préférées »" src="https://github.com/MaSStiK/punkt-b/assets/72652605/d34f0a73-c545-4a19-8183-bfca5f1a594c" />
+            <br>
+            <p>Bilan « 10 activités préférées »</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Bilan « Travail idéal »" src="https://github.com/MaSStiK/punkt-b/assets/72652605/38bb5e78-06a5-4951-aa62-75a81506fef6" />
+            <br>
+            <p>Bilan « Travail idéal »</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Bilan « Mes besoins »" src="https://github.com/MaSStiK/punkt-b/assets/72652605/91b26712-7d69-4d3d-825c-3fe68b01c05f" />
+            <br>
+            <p>Bilan « Mes besoins »</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Bilan « Classement négatif des professions »" src="https://github.com/MaSStiK/punkt-b/assets/72652605/18908fdc-4e47-4890-9837-38eaf6a47cb0" />
+            <br>
+            <p>Bilan « Classement négatif des professions »</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Bilan « Exploration des valeurs »" src="https://github.com/MaSStiK/punkt-b/assets/72652605/c34950ec-1ce6-48f2-a5cc-54e04210a56a" />
+            <br>
+            <p>Bilan « Exploration des valeurs »</p>
+        </td>
+    </tr>
+</table>
 
-## Gestion des spécialistes et des droits d’accès
+<a id="conclusion"></a>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8eb3be0a-7315-4fcd-94b9-252bc5036131" width="49%" />
-  <img src="https://github.com/user-attachments/assets/43d0e3f5-b218-4b89-9312-79eeaf51e333" width="49%" />
-</p>
+### Génération d’un rapport d’orientation personnalisé
 
----
-
-## <a id="diagnostics">📋 Exemples de bilans</a>
-
-### Bilan « 10 activités préférées »
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/d34f0a73-c545-4a19-8183-bfca5f1a594c)
-
-### Bilan « Travail idéal »
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/38bb5e78-06a5-4951-aa62-75a81506fef6)
-
-### Bilan « Mes besoins »
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/91b26712-7d69-4d3d-825c-3fe68b01c05f)
-
-### Bilan « Classement négatif des professions »
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/18908fdc-4e47-4890-9837-38eaf6a47cb0)
-
-### Bilan « Exploration des valeurs »
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/c34950ec-1ce6-48f2-a5cc-54e04210a56a)
-
----
-
-## <a id="conclusion">📄 Génération d’un rapport personnalisé</a>
-
-### Vérification des droits d’accès
-
-<p align="center">
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/3b02f908-9ea5-433e-abdd-b0632141aaa2" width="49%" />
-  <img src="https://github.com/MaSStiK/punkt-b/assets/72652605/223d73e9-b7c0-4a92-8628-3746cbf78c68" width="49%" />
-</p>
-
-### Saisie des informations client
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/b831735a-40e7-4186-a92e-408f49ccc1f7)
-
-### Sélection des orientations professionnelles
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/3aaf18c4-3a8c-4030-8ebc-009ae855956b)
-
-### Définition de l’orientation prioritaire
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/65a53ebe-75a2-4386-963a-4c0524f64925)
-
-### Sélection des professions
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/afb68ca0-ec61-4639-809c-8963d0045d1a)
-
-### Choix des options de formation
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/22865412-0a4e-4341-8790-0d2adc1634f8)
-
-### Choix de la ville
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/2f78a0a8-6f87-4e78-809f-a7577d14aa33)
-
-### Format de formation
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/fc100a12-be7c-4e4c-ac3d-3c9097a66e87)
-
-### Recommandations de programmes éducatifs
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/2605f9f1-c2bf-47a5-b5f7-04cbabeec902)
-
-### Commentaire du spécialiste
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/fe9f94b6-7aa7-4619-a729-1c6cddf680cf)
-
-### Aperçu du rapport final
-
-![image](https://github.com/MaSStiK/punkt-b/assets/72652605/20b5eff4-3345-4dae-a6e1-a7a8453d7937)
+<table>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Vérification des droits d’accès" src="https://github.com/MaSStiK/punkt-b/assets/72652605/3b02f908-9ea5-433e-abdd-b0632141aaa2" />
+            <br>
+            <p>Vérification des droits d’accès</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Vérification des droits d’accès" src="https://github.com/MaSStiK/punkt-b/assets/72652605/223d73e9-b7c0-4a92-8628-3746cbf78c68" />
+            <br>
+            <p>Vérification des droits d’accès</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Saisie des informations client" src="https://github.com/MaSStiK/punkt-b/assets/72652605/b831735a-40e7-4186-a92e-408f49ccc1f7" />
+            <br>
+            <p>Saisie des informations client</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Sélection des orientations professionnelles" src="https://github.com/MaSStiK/punkt-b/assets/72652605/3aaf18c4-3a8c-4030-8ebc-009ae855956b" />
+            <br>
+            <p>Sélection des orientations professionnelles</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Définition de l’orientation prioritaire" src="https://github.com/MaSStiK/punkt-b/assets/72652605/65a53ebe-75a2-4386-963a-4c0524f64925" />
+            <br>
+            <p>Définition de l’orientation prioritaire</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Sélection des professions" src="https://github.com/MaSStiK/punkt-b/assets/72652605/afb68ca0-ec61-4639-809c-8963d0045d1a" />
+            <br>
+            <p>Sélection des professions</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Choix des options de formation" src="https://github.com/MaSStiK/punkt-b/assets/72652605/22865412-0a4e-4341-8790-0d2adc1634f8" />
+            <br>
+            <p>Choix des options de formation</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Choix de la ville" src="https://github.com/MaSStiK/punkt-b/assets/72652605/2f78a0a8-6f87-4e78-809f-a7577d14aa33" />
+            <br>
+            <p>Choix de la ville</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Choix du format de formation" src="https://github.com/MaSStiK/punkt-b/assets/72652605/fc100a12-be7c-4e4c-ac3d-3c9097a66e87" />
+            <br>
+            <p>Choix du format de formation</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Recommandations de programmes de formation" src="https://github.com/MaSStiK/punkt-b/assets/72652605/2605f9f1-c2bf-47a5-b5f7-04cbabeec902" />
+            <br>
+            <p>Recommandations de programmes de formation</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="500" alt="Commentaires du spécialiste" src="https://github.com/MaSStiK/punkt-b/assets/72652605/fe9f94b6-7aa7-4619-a729-1c6cddf680cf" />
+            <br>
+            <p>Commentaires du spécialiste</p>
+        </td>
+        <td align="center">
+            <img width="500" alt="Aperçu du rapport final" src="https://github.com/MaSStiK/punkt-b/assets/72652605/20b5eff4-3345-4dae-a6e1-a7a8453d7937" />
+            <br>
+            <p>Aperçu du rapport final</p>
+        </td>
+    </tr>
+</table>
 
 ### Exemple de rapport PDF final
 
 [example document 24-04-2024.pdf](https://github.com/MaSStiK/punkt-b/files/15096246/example.document.24-04-2024.pdf)
+
+<!-- portfolio:hide:end -->
